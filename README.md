@@ -2,4 +2,4 @@
 
 Execute the following command from Powershell:
 
-& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/sYnapZiX/Win11Debloat/main/Main.ps1")))
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/sYnapZiX/Powershell_Windows11_Debloat/main/Main.ps1")))
